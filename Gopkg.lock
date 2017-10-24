@@ -17,7 +17,7 @@
   branch = "master"
   name = "github.com/timjchin/logcounter"
   packages = ["random"]
-  revision = "16f0f4e43c774fac4d2f52a0966d4ab4aaeb9b9e"
+  revision = "388eba15abb619c90afb5d362d4e1c2cff59847e"
 
 [[projects]]
   branch = "master"
