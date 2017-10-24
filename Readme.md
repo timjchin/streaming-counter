@@ -26,8 +26,8 @@ type StreamingCounterConfig struct {
 
 ### Methods
 `StreamingCounter.Add(string)`: Add a value to the counter.
-`StreamingCounter.GetAll() []Item`: Get a descending list of the Top Counts (configured through `StreamingCounterConfig.NumResults`)
 
+`StreamingCounter.GetAll() []Item`: Get a descending list of the Top Counts (configured through `StreamingCounterConfig.NumResults`)
 
 ### Benchmarks
 ```
